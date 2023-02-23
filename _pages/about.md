@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aleksander Zębrowski - about me"
+title: "Aleksander Zębrowski"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
