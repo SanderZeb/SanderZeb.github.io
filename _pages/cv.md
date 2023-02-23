@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Psychology, The Maria Grzegorzewska University,  2015-2020
+* M.S. in IT, Polish-Japanese Academy of Information Technology, 2023-2025
+* Ph.D in Biology, Nencki Institute of Experimental Biology, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Nencki Institute of Experimental Biology, Warsaw, PL
+* 2020-2024: Research Assistant
+  * EEG data analysis (500+ participants) using Matlab and Python, focusing on predicting subjective and objective perception of visual stimulus based on prestimulus alpha band oscillations. 
+  * Used techniques and methods such as Mismatch Pursuit, Morlet Wavelets, Fourier transformation, SVM, MVPA, Linear Regression, Linear Mixed Models. 
+  * Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Partium Marketing
+* 2018-2020: Project Manager / Business Owner
+  * Identified plans and resources required to meet project goals and objectives. 
+  * Managed projects from procurement to commission. 
+  * Developed and initiated projects, managed costs, and monitored performance. 
+  * Achieved project deadlines by coordinating with contractors to manage performance.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Theoretical background in various disciplines
+  * Neuroscientific
+  * Psychology 
+  * IT
+* Programming skills:
+    * Matlab
+    * Python
+    * R
 
 Publications
 ======
@@ -42,18 +47,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
