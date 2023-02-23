@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Aleksander Zębrowski"
   avatar           : "ja2.jpg"
-  bio              : "I am a research assistant and PhD student with a passion for neuroscience, programming, and nature. /br I am currently working at the Laboratory of Brain Imaging in the Nencki Institute of Experimental Biology /br on a project related to visual perception."
+  bio              : "I am a research assistant and PhD student with a passion for neuroscience, programming, and nature. I am currently working at the Laboratory of Brain Imaging in the Nencki Institute of Experimental Biology on a project related to visual perception."
   location         : "Warsaw, PL"
-  employer         : "LOBI@Nencki Institude /br of Experimental Biology, PAS"
+  employer         : "LOBI@Nencki Institude 
+of Experimental Biology, PAS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "a.zebrowski@nencki.edu.pl"
