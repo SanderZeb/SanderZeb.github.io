@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Aleksander Zębrowski"
-  avatar           : "ja2.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "ja2.jpg"
+  bio              : "I am a research assistant and PhD student with a passion for neuroscience, programming, and nature. /br I am currently working at the Laboratory of Brain Imaging in the Nencki Institute of Experimental Biology /br on a project related to visual perception."
   location         : "Warsaw, PL"
-  employer         : "LOBI@Nencki Institude of Experimental Biology"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "LOBI@Nencki Institude /br of Experimental Biology, PAS"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "a.zebrowski@nencki.edu.pl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/0000-0003-0037-9172"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0037-9172"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AleksZebr"
   vine             :
   weibo            :
   xing             :
